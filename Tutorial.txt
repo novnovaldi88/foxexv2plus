@@ -1,0 +1,19 @@
+[+] How To Get Shells ?
+
+1- Grab Some Sites From Zone-h (OnHold)
+2- Change Sites to Ips 
+3- Remove Duplicates Ips
+4- Reverse ips to Domains
+5- Run Fox Exv2 with this domains (use rdp for fast results)
+--------------------------------------------------------------
+Two Grabber For Free : 
+
+[+] https://tools.helixs.id/home/?tools=HaxorID
+[+] https://tools.helixs.id/home/?tools=Zone-Xsec
+--------------------------------------------------------------
+Donations to keep posting more free tools.♥️
+Anyone will donate send me on screeen on @OwnerRRx7.🤩
+Even if 1$ from everyone will help me to leak more private tools for free 😇 .
+
+BTC :
+bc1quve23zjsrg2sl7fng5pn5v456w4cd3cfhjsvln
